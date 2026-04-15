@@ -1,6 +1,6 @@
 # Car-melakuk-n-Resch-dule-Tr-p.com
 // POST request
-fetch('https://your-api.com/endpoint', {
+fetch('FLARE_KEY=zmbMTkDh5vLmSTQAgW1raLESjsfumAJ0', {
   method: 'POST',
   headers: { 'Content-Type': 'application/json' },
   body: JSON.stringify({
