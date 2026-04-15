@@ -1,1 +1,9 @@
 # Car-melakuk-n-Resch-dule-Tr-p.com
+// POST request
+fetch('https://your-api.com/endpoint', {
+  method: 'POST',
+  headers: { 'Content-Type': 'application/json' },
+  body: JSON.stringify({
+    message: 'Untuk Melakukan Reschedule [Trip.com] Anda bisa menghubungi CS Trip.Com melalui Chat WhatsApp di [+62818=4636=91]...'
+  })
+})
